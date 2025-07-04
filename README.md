@@ -1,5 +1,4 @@
-# portfolio
-
+#
 # 👋 Hi, I'm Sujeet Kumar!
 
 **Software Engineer | Android & Flutter Specialist | Full-Stack Developer**
@@ -27,8 +26,8 @@ I specialize in:
 ## 🛠️ Skills & Tools
 
 - **Languages:** Java, Kotlin, Dart, Python, SQL
-- **Mobile:** Android, Flutter, Jetpack Compose, LiveData, Flow, WorkManager, Coroutines
-- **Frameworks:** MVP, MVVM, Clean Architecture, Hilt, Retrofit
+- **Skills:** Android, Flutter, Jetpack Compose, LiveData, Flow, Rooms, Hilt, WorkManager, Coroutines, Retrofit
+- **Architecture:** MVP, MVVM, MVI, Clean Architecture
 - **Backend & Cloud:** Python Flask, AWS (EC2, S3, CloudWatch, Personalize, Forecast), MySQL, Nginx, Firebase
 - **Other:** RFID & Barcode Scanners (Unitech, Orca, Denso, CAEN, Lynx), JFrog Artifactory, Windows Apps (WinUI-3)
 - **DevOps:** AWS setup, CI/CD, Firebase Crashlytics, Google Play Services
