@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Sujeet Kumar!
 
 **Software Engineer | Android & Flutter Specialist | Full-Stack Developer**
