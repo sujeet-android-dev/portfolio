@@ -10,6 +10,8 @@
 ## 👨‍💻 About Me
 
 I'm a Android Developer with 8+ years of experience in architecting and developing robust mobile application solutions. My expertise spans the Android & Flutter development stack (Java, Kotlin, Dart, Android SDK), and I excel at designing scalable, maintainable solutions using modern architectural patterns like MVP, MVVM, and Clean Architecture.
+
+
 I specialize in:
 
 - Crafting complex, engaging UI/UX
