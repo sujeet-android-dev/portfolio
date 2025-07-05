@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6000&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+
+
 # 👋 Hi, I'm Sujeet Kumar!
 
 **Software Engineer | Android & Flutter Specialist | Full-Stack Developer**
